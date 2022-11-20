@@ -1,4 +1,4 @@
-### Technoblade never dies!!!
+### Technoblade Never Dies!!!
 
 <!--
 **NarasimaPandiyan/NarasimaPandiyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
