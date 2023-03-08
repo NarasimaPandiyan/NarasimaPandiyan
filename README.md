@@ -13,7 +13,7 @@ ___
 > ― Technoblade 👑
 
 <img width=100% src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NarasimaPandiyan&theme=github_dark">
-<div class="stats-container">
+<div style="display: flex;justify-content: space-between;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NarasimaPandiyan&theme=github_dark">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NarasimaPandiyan&theme=github_dark">
 </div>
@@ -26,10 +26,3 @@ ___
 <div align="center">
   <img height=400px src="Assets/Techno-RIP.gif">
 </div>
-
-<style>
-  .stats-container {
-  display: flex;
-  justify-content: space-between;
-}
-</style>
