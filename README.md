@@ -14,62 +14,22 @@ ___
 
 <img width=100% src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NarasimaPandiyan&theme=github_dark">
 <div style="display: flex;justify-content: space-between;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NarasimaPandiyan&theme=github_dark">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NarasimaPandiyan&theme=github_dark">
+  <img style="float:left;" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NarasimaPandiyan&theme=github_dark">
+  <img style="float:right;" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NarasimaPandiyan&theme=github_dark">
 </div>
+
+___
+
 <Details>
-<summary>More Details</summary>
+<summary>More Details 🔻</summary>
+
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.5%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 340.9 kB Used in GitHub's Storage 
- > 
-> 🏆 81 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 7 Public Repositories 
- > 
-> 🔑 11 Private Repositories 
- > 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Markdown                 1 hr                ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   50.36 % 
-Python                   55 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   46.07 % 
-JSON                     2 mins              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.16 % 
-HTML                     1 min               ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.09 % 
-JavaScript               0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.32 % 
-
-🔥 Editors: 
-VS Code                  2 hrs               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
-
-💻 Operating System: 
-Windows                  2 hrs               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               3 repos             ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.00 % 
-Python                   3 repos             ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.00 % 
-Jupyter Notebook         1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.33 % 
-C++                      1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.33 % 
-HTML                     1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.33 % 
-```
-
-
-
-
- Last Updated on 08/03/2023 20:30:04 UTC
 <!--END_SECTION:waka-->
+
 </Details>
 
+___
 <div align="center">
   <img height=400px src="Assets/Techno-RIP.gif">
 </div>
