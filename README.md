@@ -4,7 +4,7 @@ ___
 
 <div align=center>
   <img height=300px src="https://i.makeagif.com/media/4-16-2021/Z0PUh5.gif">
-  <a href="https://youtu.be/MPiILYNStd8?t=50"><i>Credit - @Sad-ist on Youtube</i></a>
+  <br><a href="https://youtu.be/MPiILYNStd8?t=50" target="_blank"><i>Credit - @Sad-ist on Youtube</i></a>
 </div>
 
 >“Those who treat me with kindness, I will repay that kindness tenfold.
@@ -14,6 +14,7 @@ ___
 
 ![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NarasimaPandiyan&theme=github_dark)
 ![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NarasimaPandiyan&theme=github_dark)
+![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NarasimaPandiyan&theme=github_dark)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 ![Techno](Assets/Techno-RIP.gif)
