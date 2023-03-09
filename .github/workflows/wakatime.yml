@@ -14,7 +14,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SYMBOL_VERSION: 3
+          SYMBOL_VERSION: 2
           SHOW_PROJECTS: false
           SHOW_TOTAL_CODE_TIME: false
           SHOW_PROFILE_VIEWS: false
