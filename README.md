@@ -96,15 +96,15 @@ WSL                      2 hrs 55 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 
 💵 $0.04 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 36 AI Prompts
+🧠 5 AI Sessions, 35 AI Prompts
 
 Gemini                   119 lines           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 Gemma                    0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 97.1% of written lines came from AI
-📝 Concise Prompter — average 91 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📝 Concise Prompter — average 93 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 1.65% of changed lines were hand-edited
 ```
 
