@@ -72,38 +72,37 @@ Sunday                   418 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 2 hrs 14 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀   73.46 % 
-PowerShell               20 mins             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.46 % 
-TOML                     14 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.89 % 
-Python                   13 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.19 % 
+TOML                     14 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   52.58 % 
+Python                   7 mins              ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   26.99 % 
+Markdown                 5 mins              ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.43 % 
 
 🔥 Editors: 
-Antigravity CLI          2 hrs 57 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀   96.93 % 
-VS Code                  5 mins              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.07 % 
+Antigravity CLI          21 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀   79.57 % 
+VS Code                  5 mins              ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.43 % 
 
 💻 Operating System: 
-WSL                      3 hrs 3 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+WSL                      27 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 57 mins (96.93%)
+⏱ AI Coding Time: 21 mins (79.57%)
 
-✍️ 81 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 47 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 37 AI Prompts
+🧠 1 AI Sessions, 4 AI Prompts
 
-Gemini                   139 lines           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Gemini                   53 lines            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 86 characters per prompt
-🔁 Iterative Prompter — average 18 prompts per session
+📝 Concise Prompter — average 70 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
