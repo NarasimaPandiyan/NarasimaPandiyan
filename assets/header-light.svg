@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="290" viewBox="0 0 1120 290" role="img" aria-label="Narasima Pandiyan, developer and designer">
+<title>Narasima Pandiyan — Software, design and systems</title>
+<style>
+  .meta { font: 600 16px/1.2 -apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif; fill: #57606A; letter-spacing: 2.2px; }
+  .name { font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif; font-weight: 750; font-size: 148px; fill: #24292F; letter-spacing: -6px; }
+  .tag { font: 600 19px/1.2 -apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif; letter-spacing: 2.8px; fill: #57606A; }
+</style>
+<path d="M42 69H1078" stroke="#D0D7DE" stroke-width="1"/>
+<text x="43" y="49" class="meta">N / P  —  001</text><text x="1067" y="49" text-anchor="end" class="meta">SOFTWARE  /  DESIGN  /  SYSTEMS</text>
+<text x="43" y="189" class="name">Narasima<tspan fill="#54766C">.</tspan></text>
+<g transform="translate(947 157)" fill="none" stroke="#54766C" stroke-width="1.6"><circle r="68" opacity=".55"/><circle r="42" opacity=".82"/><circle r="13"/><path d="M-85 0H85 M0-85V85" opacity=".5"/><path d="M-49 -49L49 49 M49 -49L-49 49" opacity=".25"/><circle r="3" fill="#54766C" stroke="none"/></g>
+<text x="47" y="237" class="tag">ENGINEERING  ×  EXPERIMENTATION</text><path d="M42 264H1078" stroke="#D0D7DE" stroke-width="1"/>
+</svg>
