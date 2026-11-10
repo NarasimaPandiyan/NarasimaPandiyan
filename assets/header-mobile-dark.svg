@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="320" viewBox="0 0 640 320" role="img" aria-label="Narasima Pandiyan, developer and designer">
+<title>Narasima Pandiyan — Software, design and systems</title>
+<style>
+  .meta { font: 600 17px/1.2 -apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif; fill: #919BA6; letter-spacing: 2.2px; }
+  .name { font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif; font-weight: 750; font-size: 89px; fill: #E6EDF3; letter-spacing: -6px; }
+  .tag { font: 600 21px/1.2 -apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif; letter-spacing: 1.1px; fill: #919BA6; }
+</style>
+<path d="M32 82H608" stroke="#444C56" stroke-width="1"/>
+<text x="32" y="64" class="meta">N / P  —  001</text>
+<text x="32" y="167" class="name">Narasima<tspan fill="#9BC1B0">.</tspan></text>
+<g transform="translate(567 53)" stroke="#9BC1B0" stroke-width="2" fill="none"><circle r="22"/><path d="M-29 0H29 M0-29V29" opacity=".55"/><circle r="5" fill="#9BC1B0" stroke="none"/></g>
+<text x="34" y="225" class="tag">SOFTWARE  /  DESIGN  /  SYSTEMS</text><path d="M32 264H608" stroke="#444C56" stroke-width="1"/><text x="32" y="291" class="meta">ENGINEERING  ×  EXPERIMENTATION</text>
+</svg>
