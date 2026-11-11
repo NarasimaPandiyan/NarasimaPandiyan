@@ -1,110 +1,75 @@
-# Hi, I am Narasima Pandiyan
+<!-- GitHub profile / Neo-Brutalism 07. Semantic Markdown content accompanies all SVG artwork. -->
+<picture>
+  <source media="(max-width: 620px) and (prefers-color-scheme: dark)" srcset="./assets/neo-hero-mobile-dark.svg">
+  <source media="(max-width: 620px)" srcset="./assets/neo-hero-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/neo-hero-dark.svg">
+  <img src="./assets/neo-hero-light.svg" width="100%" alt="Bold yellow and coral neo-brutalist banner reading Make Things and Narasima Pandiyan.">
+</picture>
 
-___
+# Narasima Pandiyan
 
-<div align=center>
-  <img height=300px width=100% src="https://i.makeagif.com/media/4-16-2021/Z0PUh5.gif">
-  <br><a href="https://youtu.be/MPiILYNStd8?t=50" target="_blank"><i>Credit - @Sad-ist on Youtube</i></a>
-</div>
+**BIG IDEAS. WORKING CODE.**
 
->“Those who treat me with kindness, I will repay that kindness tenfold.
->And those that treat with injustice, that use me, that hunt me down, that hurt my friends, I shall repay that injustice a thousand times over.”
->
-> ― Technoblade 👑
+Software developer and designer working across web applications, AI systems, and developer tooling. I care about thoughtful interfaces, practical engineering, and building things people can actually use.
 
-<img width=100% src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NarasimaPandiyan&theme=github_dark">
-<div style="display: flex;justify-content: space-between;">
-  <img style="float:left;" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NarasimaPandiyan&theme=github_dark">
-  <img style="float:right;" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NarasimaPandiyan&theme=github_dark">
-</div>
+**[Portfolio](https://narasima.codes)** &nbsp; / &nbsp; **[Email](mailto:sayhi@narasima.codes)** &nbsp; / &nbsp; **[GitHub](https://github.com/NarasimaPandiyan)**
 
-___
+---
 
-<Details>
-<summary>More Details 🔻</summary>
-  <br>
-  
- ![status](https://badge.stateful.com/NarasimaPandiyan/status.svg)
-  
- ![status](https://badge.stateful.com/NarasimaPandiyan/dnd.svg)
+<picture>
+  <source media="(max-width: 620px) and (prefers-color-scheme: dark)" srcset="./assets/neo-projects-mobile-dark.svg">
+  <source media="(max-width: 620px)" srcset="./assets/neo-projects-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/neo-projects-dark.svg">
+  <img src="./assets/neo-projects-light.svg" width="100%" alt="">
+</picture>
+
+## WHAT'S ON THE BENCH?
+
+### 01 / [JetBrains Mono for VS Code](https://github.com/NarasimaPandiyan/JetbrainsMono-vscode-extension)
+A VS Code extension for enabling and managing the JetBrains Mono font family.  
+`EDITOR TOOLING` &nbsp; `VS CODE`
+
+### 02 / [Playnite × Modrinth](https://github.com/NarasimaPandiyan/Playnite-Modrinth-Metadata)
+A Playnite metadata-provider extension that brings Minecraft modpack information and artwork from Modrinth into Playnite.  
+`C#` &nbsp; `API INTEGRATION`
+
+### 03 / [JobOS](https://github.com/NarasimaPandiyan/jobOS)
+A **work-in-progress**, local-first job intelligence and structured résumé-building system.  
+`TAURI` &nbsp; `LOCAL AI` &nbsp; `IN PROGRESS`
+
+### 04 / [Movie recommendation with RAG](https://github.com/NarasimaPandiyan/Movie-Recommendation-Using-RAG)
+Semantic and hybrid movie search using Gemini embeddings, LlamaIndex, and MongoDB Atlas.  
+`PYTHON` &nbsp; `RAG`
+
+---
+
+## TOOLBOX / 05
+
+`Python` &nbsp; `TypeScript` &nbsp; `React` &nbsp; `C#` &nbsp; `PyTorch` &nbsp; `Tauri`
+
+Also exploring game development, simulation, UI/UX design, and Japanese language learning.
+
+---
+
+## THE LOG / 06
+
+<details>
+<summary><strong>Activity log</strong> — GitHub and WakaTime statistics</summary>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-57%20hrs%2050%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25.94%20million%20lines%20of%20code-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 1.0 MB Used in GitHub's Storage 
- > 
-> 🏆 432 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 15 Public Repositories 
- > 
-> 🔑 37 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                153 commits         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.55 % 
-🌆 Daytime                1184 commits        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.21 % 
-🌃 Evening                1050 commits        ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.22 % 
-🌙 Night                  976 commits         ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.02 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   968 commits         ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   28.78 % 
-Tuesday                  740 commits         ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.00 % 
-Wednesday                336 commits         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.99 % 
-Thursday                 309 commits         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.19 % 
-Friday                   470 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.98 % 
-Saturday                 98 commits          ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.91 % 
-Sunday                   442 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.14 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   15 repos            ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   28.30 % 
-TypeScript               11 repos            ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.75 % 
-Jupyter Notebook         6 repos             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.32 % 
-JavaScript               4 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.55 % 
-C#                       1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.89 % 
-```
-
-
-
-
 <!--END_SECTION:waka-->
 
-</Details>
+</details>
 
-___
-<div align="center">
-  <img height=400px src="Assets/Techno-RIP.gif">
-</div>
+<details>
+<summary><strong>Personal note</strong> — Technoblade</summary>
+
+> Those who treat me with kindness, I will repay that kindness tenfold.
+
+In memory of Technoblade. [Original memorial animation](./Assets/Techno-RIP.gif) · [Animation credit to SAD-ist](https://youtu.be/MPiILYNStd8?t=50).
+
+</details>
+
+---
+
+<sub>BUILD / BREAK / LEARN / REPEAT &nbsp; · &nbsp; [narasima.codes](https://narasima.codes)</sub>
