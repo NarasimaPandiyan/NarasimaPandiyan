@@ -1,65 +1,75 @@
-<!-- Minimal editorial GitHub profile • source: github.com/NarasimaPandiyan/NarasimaPandiyan -->
+<!-- GitHub profile / Neo-Brutalism 07. Semantic Markdown content accompanies all SVG artwork. -->
 <picture>
-  <source media="(max-width: 620px) and (prefers-color-scheme: dark)" srcset="./assets/header-mobile-dark.svg">
-  <source media="(max-width: 620px)" srcset="./assets/header-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <img src="./assets/header-light.svg" width="100%" alt="Narasima Pandiyan — software developer, designer and generalist">
+  <source media="(max-width: 620px) and (prefers-color-scheme: dark)" srcset="./assets/neo-hero-mobile-dark.svg">
+  <source media="(max-width: 620px)" srcset="./assets/neo-hero-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/neo-hero-dark.svg">
+  <img src="./assets/neo-hero-light.svg" width="100%" alt="Bold yellow and coral neo-brutalist banner reading Make Things and Narasima Pandiyan.">
 </picture>
 
-**Multidisciplinary developer / generalist.**  
-I build across software engineering, applied AI, and developer tooling — with an interest in thoughtful interfaces and useful systems.
+# Narasima Pandiyan
 
-[Portfolio](https://narasima.codes) &nbsp;·&nbsp; [Email](mailto:sayhi@narasima.codes) &nbsp;·&nbsp; [GitHub](https://github.com/NarasimaPandiyan)
+**BIG IDEAS. WORKING CODE.**
+
+Software developer and designer working across web applications, AI systems, and developer tooling. I care about thoughtful interfaces, practical engineering, and building things people can actually use.
+
+**[Portfolio](https://narasima.codes)** &nbsp; / &nbsp; **[Email](mailto:sayhi@narasima.codes)** &nbsp; / &nbsp; **[GitHub](https://github.com/NarasimaPandiyan)**
 
 ---
 
-### 01 / Selected work
+<picture>
+  <source media="(max-width: 620px) and (prefers-color-scheme: dark)" srcset="./assets/neo-projects-mobile-dark.svg">
+  <source media="(max-width: 620px)" srcset="./assets/neo-projects-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/neo-projects-dark.svg">
+  <img src="./assets/neo-projects-light.svg" width="100%" alt="">
+</picture>
 
-**[JetBrains Mono for VS Code](https://github.com/NarasimaPandiyan/JetbrainsMono-vscode-extension)**  
+## WHAT'S ON THE BENCH?
+
+### 01 / [JetBrains Mono for VS Code](https://github.com/NarasimaPandiyan/JetbrainsMono-vscode-extension)
 A VS Code extension for enabling and managing the JetBrains Mono font family.  
 `EDITOR TOOLING` &nbsp; `VS CODE`
 
-**[Playnite × Modrinth](https://github.com/NarasimaPandiyan/Playnite-Modrinth-Metadata)**  
-A metadata provider that brings Minecraft modpack information and artwork from Modrinth into Playnite.  
+### 02 / [Playnite × Modrinth](https://github.com/NarasimaPandiyan/Playnite-Modrinth-Metadata)
+A Playnite metadata-provider extension that brings Minecraft modpack information and artwork from Modrinth into Playnite.  
 `C#` &nbsp; `API INTEGRATION`
 
-**[JobOS](https://github.com/NarasimaPandiyan/jobOS)**  
-An in-progress, local-first job intelligence and structured resume-building system.  
+### 03 / [JobOS](https://github.com/NarasimaPandiyan/jobOS)
+A **work-in-progress**, local-first job intelligence and structured résumé-building system.  
 `TAURI` &nbsp; `LOCAL AI` &nbsp; `IN PROGRESS`
 
-**[Movie recommendations with RAG](https://github.com/NarasimaPandiyan/Movie-Recommendation-Using-RAG)**  
+### 04 / [Movie recommendation with RAG](https://github.com/NarasimaPandiyan/Movie-Recommendation-Using-RAG)
 Semantic and hybrid movie search using Gemini embeddings, LlamaIndex, and MongoDB Atlas.  
 `PYTHON` &nbsp; `RAG`
 
 ---
 
-### 02 / Working with
+## TOOLBOX / 05
 
 `Python` &nbsp; `TypeScript` &nbsp; `React` &nbsp; `C#` &nbsp; `PyTorch` &nbsp; `Tauri`
 
-My interests also extend to game development, simulation, UI/UX design, and Japanese language learning.
+Also exploring game development, simulation, UI/UX design, and Japanese language learning.
 
 ---
 
-### 03 / Activity
+## THE LOG / 06
 
 <details>
-<summary>GitHub and coding activity · generated automatically</summary>
+<summary><strong>Activity log</strong> — GitHub and WakaTime statistics</summary>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 </details>
 
----
-
 <details>
-<summary>A personal note · Technoblade</summary>
+<summary><strong>Personal note</strong> — Technoblade</summary>
 
 > Those who treat me with kindness, I will repay that kindness tenfold.
 
-In memory of Technoblade. The tribute from my original profile is preserved [here](./Assets/Techno-RIP.gif), with [animation credit to SAD-ist](https://youtu.be/MPiILYNStd8?t=50).
+In memory of Technoblade. [Original memorial animation](./Assets/Techno-RIP.gif) · [Animation credit to SAD-ist](https://youtu.be/MPiILYNStd8?t=50).
 
 </details>
 
-<sub>Less decoration. More substance. · [narasima.codes](https://narasima.codes)</sub>
+---
+
+<sub>BUILD / BREAK / LEARN / REPEAT &nbsp; · &nbsp; [narasima.codes](https://narasima.codes)</sub>
